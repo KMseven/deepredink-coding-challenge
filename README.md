@@ -3,6 +3,7 @@ The python code takes voice input from the user and pass the input to the [Poki 
 
 ### Prerequisites
 
+* [PyAudio](https://pypi.python.org/pypi/PyAudio "python library")
 * [Speech Recognition](https://pypi.python.org/pypi/SpeechRecognition/ "python library")
 * [requests](http://docs.python-requests.org/en/master/ "python library")
 * [webbrowser](https://docs.python.org/2/library/webbrowser.html "python library")
